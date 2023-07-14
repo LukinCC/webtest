@@ -1,4 +1,4 @@
-<script type="application/ld+json">
+
     {
         "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -18,4 +18,3 @@
     "name": "Award Winners"
       }]
     }
-</script>
